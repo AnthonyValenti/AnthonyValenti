@@ -4,7 +4,7 @@
 
 - 📚 Currently I am studying Software Engineering at Ryerson University, graduating Spring 2023.
 - ⚡ I love sports, programming, data science, and finance.
-- 💻 Comfortable coding with Javascript, Java, Python, C and Swift.
+- 💻 Comfortable coding with Javascript, Java, Python, C and more!
 - 📫 Connect with me!
   - [LinkedIn](https://www.linkedin.com/in/anthonyvalenti2001/)
 - 📝 Some of my projects
