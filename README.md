@@ -9,5 +9,5 @@
   - [LinkedIn](https://www.linkedin.com/in/anthonyvalenti2001/)
 - 📝 Some of my projects
   - [NHL Player Cards](https://puckenanalysis.netlify.app)
-  - [NHL Player Z-Score Charts](https://playeranalysis.netlify.app)   
+  - [Movie database managment system](https://github.com/AnthonyValenti/Java-WebApplication-Project)   
 
