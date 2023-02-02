@@ -9,5 +9,6 @@
   - [LinkedIn](https://www.linkedin.com/in/anthonyvalenti2001/)
 - 📝 Some of my projects
   - [NHL Player Cards](https://puckenanalysis.netlify.app)
-  - [Movie Database Managment System](https://github.com/AnthonyValenti/Java-WebApplication-Project)   
+  - [Movie Database Managment System](https://github.com/AnthonyValenti/Java-WebApplication-Project)
+  - [iMessage Data Analysis](https://github.com/AnthonyValenti/IMessageWrappedPython)   
 
