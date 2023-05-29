@@ -2,7 +2,7 @@
 
 
 
-- 📚 Currently I am studying Software Engineering at Toronto Metropolitan (Ryerson) University, graduating Spring 2023.
+- 📚 Software Engineering Graduate from Toronto Metropolitan University
 - ⚡ I love sports, programming, data science, and finance.
 - 💻 Love coding with Javascript, Java, Python, C and more!
 - 📫 Connect with me!
