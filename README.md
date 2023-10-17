@@ -8,7 +8,7 @@
 - 📫 Connect with me!
   - [LinkedIn](https://www.linkedin.com/in/anthonyvalenti2001/)
 - 📝 Some of my projects
-  - [NHL Player Cards](https://puckenanalysis.netlify.app)
+  - [NHL Sudoku Game](https://github.com/AnthonyValenti/Teammate-Grids)
   - [Movie Database Managment System](https://github.com/AnthonyValenti/Java-WebApplication-Project)
   - [iMessage Data Analysis](https://github.com/AnthonyValenti/IMessageWrappedPython)   
 
